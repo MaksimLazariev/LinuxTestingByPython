@@ -1,0 +1,9 @@
+folder_in: /home/user/tst
+folder_out: /home/user/out
+folder_ext01: /home/user/folder01
+folder_ext02: /home/user/folder02
+
+count: 10
+bs: 1M
+type: zip
+stat_file: stat.txt
