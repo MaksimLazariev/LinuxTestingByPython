@@ -1,0 +1,9 @@
+Test Statistics
+Time=01:55:39.276313, Num of files=10, file size=1M, Cpu stats=1.42 1.38 1.14 4/530 18860
+Time=01:55:39.614029, Num of files=10, file size=1M, Cpu stats=1.42 1.38 1.14 4/530 18890
+Time=01:55:39.648392, Num of files=10, file size=1M, Cpu stats=1.42 1.38 1.14 4/530 18896
+Time=01:55:39.672318, Num of files=10, file size=1M, Cpu stats=1.42 1.38 1.14 6/530 18902
+Time=01:55:39.751070, Num of files=10, file size=1M, Cpu stats=1.42 1.38 1.14 3/530 18930
+Time=01:55:40.192491, Num of files=10, file size=1M, Cpu stats=1.86 1.47 1.17 7/531 18971
+Time=01:55:40.291161, Num of files=10, file size=1M, Cpu stats=1.86 1.47 1.17 5/530 18977
+Time=01:55:40.524708, Num of files=10, file size=1M, Cpu stats=1.86 1.47 1.17 4/530 19003
